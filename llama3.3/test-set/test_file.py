@@ -1,7 +1,17 @@
-a = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-b = [[9, 8, 7], [6, 5, 4], [3, 2, 1]]
 
-res = [[a[i][j] + b[i][j] for j in range(len(a[0]))] for i in range(len(a))]
+s = "Geeks for Geeks"
 
-for r in res:
-    print(r)
+# Split the string into words
+words = s.split()
+
+# Initialize an empty string to store the result
+reversed_words = ""
+
+# Iterate through the words in reverse order
+for word in reversed(words):
+    reversed_words += word + " "
+
+# Strip the trailing space
+reversed_words = reversed_words.strip()
+
+print(reversed_words)
