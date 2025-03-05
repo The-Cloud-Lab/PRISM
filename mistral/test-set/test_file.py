@@ -1,4 +1,4 @@
-s = "Geeks for Geeks"
+s = "test for test"
 
 # Split the string into words
 words = s.split()
@@ -14,3 +14,5 @@ for word in reversed(words):
 reversed_words = reversed_words.strip()
 
 print(reversed_words)
+
+
