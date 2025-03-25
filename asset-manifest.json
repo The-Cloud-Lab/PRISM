@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PRISM/scores-dashboard/static/css/main.75818111.css",
-    "main.js": "/PRISM/scores-dashboard/static/js/main.9030d17b.js",
-    "static/js/453.bad2fb77.chunk.js": "/PRISM/scores-dashboard/static/js/453.bad2fb77.chunk.js",
-    "index.html": "/PRISM/scores-dashboard/index.html",
-    "main.75818111.css.map": "/PRISM/scores-dashboard/static/css/main.75818111.css.map",
-    "main.9030d17b.js.map": "/PRISM/scores-dashboard/static/js/main.9030d17b.js.map",
-    "453.bad2fb77.chunk.js.map": "/PRISM/scores-dashboard/static/js/453.bad2fb77.chunk.js.map"
+    "main.css": "/PRISM/static/css/main.75818111.css",
+    "main.js": "/PRISM/static/js/main.eee88cd3.js",
+    "static/js/453.bad2fb77.chunk.js": "/PRISM/static/js/453.bad2fb77.chunk.js",
+    "index.html": "/PRISM/index.html",
+    "main.75818111.css.map": "/PRISM/static/css/main.75818111.css.map",
+    "main.eee88cd3.js.map": "/PRISM/static/js/main.eee88cd3.js.map",
+    "453.bad2fb77.chunk.js.map": "/PRISM/static/js/453.bad2fb77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75818111.css",
-    "static/js/main.9030d17b.js"
+    "static/js/main.eee88cd3.js"
   ]
 }
