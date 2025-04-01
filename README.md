@@ -20,6 +20,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
   
    #### 1. Ollama
 Download and install ollama application: https://github.com/ollama/ollama
+
 <br>
    #### 2. Ngrok and Uvicorn
    
