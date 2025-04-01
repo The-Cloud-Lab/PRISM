@@ -67,7 +67,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
 Create a new project and use the Realtime databse using the following link:
     https://console.firebase.google.com
 
-Go to Repository -> settings --> Security --> Secrets and variables --> Actions 
+Go to Repository -> settings --> Security --> Secrets and variables --> Actions \
 and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secret: {firebase url}. 
    
 <br>
