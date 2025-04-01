@@ -27,7 +27,7 @@ Get a new Authorization token and paste the following command in the local termi
       
 Uvicorn: Download and install https://www.uvicorn.org/
 
-Download the "ollama_api.py" file from the repository and place the file in the terminal directory. 
+Download the "ollama_api.py" file from the repository and place it in the terminal directory. 
 
    #### 3. Connecting Github workflow with local system using Ngrok and Uvicorn:
    #####  Step 1:
