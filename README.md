@@ -73,7 +73,7 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 <br>
 
 
-## 5. Build and deployment Appliation using Github pages (terminal 1)
+## 5. Build and deploy Appliation using Github pages (terminal 1)
 
    #### Install npm:
     npm install
@@ -83,6 +83,11 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 
    #### Deploy:
     npm run deploy
+
+Now, go to Repository --> Settings --> Code and automation --> Pages \
+and select source as Deploy from a branch, branch as gh-pages, folder /(root) and save.
+
+![Image](image.png)
    
    #### PR Scores GitHub Extension
 
