@@ -19,8 +19,7 @@ Download and install ollama application: https://github.com/ollama/ollama
    
    #### Download Ngrok and Uvicorn
    
-   ##### Ngrok:
-    https://dashboard.ngrok.com/get-started/setup
+   ##### Ngrok: https://dashboard.ngrok.com/get-started/setup
    
 Get a new Authorization token and paste the following command in the local terminal for the configuration.
    
