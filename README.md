@@ -5,13 +5,13 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 
 # Setup
 
-1. clone the repository using the following link in your another terminal:
+##1. clone the repository using the following link in your another terminal:
    [git clone https://github.com//PRISM.git](https://github.com/The-Cloud-Lab/PRISM.git)
 
-2. Enable read and write permissions to the repository.
+##2. Enable read and write permissions to the repository.
    Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
 
-3.\
+##3.\
    **i. Use Local LLMs**
   
 **Ollama**: \
@@ -52,7 +52,7 @@ Download and install Ollamad and follow the instructions using below link:
   **ii. Using LLMs using API endpoints**
    
    
-4. set up Firebase
+##4. set up Firebase
 Create a new project and use the Realtime databse using the following link:
 [https://console.firebase.google.com]
 
@@ -60,11 +60,11 @@ copy the firebase url: __https://unique_url.firebaseio.com/__ and go to Reposito
 and paste it in Repoitory secrets with Name: FIREBASE_URL and Secret: {firebase url}. 
 
 
-5. use the first terminal to install the application: 
+##5. use the first terminal to install the application: 
 
 
 
-7. Build and deployment Appliation using Github pages
+##7. Build and deployment Appliation using Github pages
 
    Go to 
    
