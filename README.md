@@ -83,8 +83,6 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 
    #### Deploy:
     npm run deploy
-
-<br>
    
    #### PR Scores GitHub Extension
 
