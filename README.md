@@ -5,7 +5,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 
 # Setup
 
-## 1. clone the repository(terminal_1):
+## 1. clone the repository(terminal 1):
     https://github.com/The-Cloud-Lab/PRISM.git
     
 <br>
@@ -38,13 +38,13 @@ Download the "ollama_api.py" file from the repository and place it in the termin
    #### 3. Connecting Github workflow with local system using Ngrok and Uvicorn:
    #####  Step 1:
      
-   Create two seperate terminals and using the following commands in respective terminals
+   Create two seperate terminals and use the following commands in respective terminals
 
-   terminal_2:
+   terminal 2:
 
     uvicorn ollama_api:app --host 0.0.0.0 --port 8000 
     
-   terminal_3:
+   terminal 3:
    
     ngrok http 8000
    
