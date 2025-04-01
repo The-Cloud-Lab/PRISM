@@ -77,7 +77,12 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 
    #### Install npm:
     npm install
+    
+   #### Setup Source branch:
+    npm install gh-pages --save-dev
 
+   #### Deploy:
+    npm run deploy
     
 <br>
    
