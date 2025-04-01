@@ -59,7 +59,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
         
 <br>
 
-  ### Using LLMs using API endpoints**
+  ### Using LLMs using API endpoints
       
 <br> 
    
@@ -67,7 +67,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
 Create a new project and use the Realtime databse using the following link:
     https://console.firebase.google.com
 
-copy the firebase url: __https://unique_url.firebaseio.com/__ and go to Repository -> settings --> Security --> Secrets and variables --> Actions 
+copy the firebase url: _https://unique_url.firebaseio.com/_ and go to Repository -> settings --> Security --> Secrets and variables --> Actions 
 and paste it in Repoitory secrets with Name: FIREBASE_URL and Secret: {firebase url}. 
    
 <br>
