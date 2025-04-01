@@ -19,19 +19,19 @@ PRISM is an In-built tool that analyzes and score the pull request created using
    
    #### Download Ngrok and Uvicorn:
    
-   **Ngrok**: Download Ngrok using the below link and follow the Setup and installation instructions.
+   ##### Ngrok:
       https://dashboard.ngrok.com/get-started/setup
    
    --> It will automatically provides you with a new Authorization Token. paste the following command in your local terminal to configure the token.
    
    ngrok config add-authtoken $YOUR_AUTHTOKEN
 
-   **Uvicorn**: Install Uvicorn (FastAPI) using the below link and follow the steps.
+   ##### Uvicorn**:
       https://www.uvicorn.org/
 
    --> Make sure you have pip in your terminal. Download the "ollama_api.py" file which is in the repository and place it in the same directory as the terminal are in. 
 
-   #### Connecting Github workflow with local system using Ngrok and Uvicorn**:
+   #### Connecting Github workflow with local system using Ngrok and Uvicorn:
    step 1: 
    Create two seperate terminals and using the following commands in respective terminals:
    terminal two: uvicorn ollama_api:app --host 0.0.0.0 --port 8000 
