@@ -7,9 +7,13 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 
 ## 1. clone the repository(terminal_1):
     https://github.com/The-Cloud-Lab/PRISM.git
+    
+<br>
 
 ## 2. Enable read and write permissions to the repository.
  Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
+    
+<br>
 
 ## 3. Connecting LLMs
    ### Using Local LLMs
@@ -57,7 +61,8 @@ Download the "ollama_api.py" file from the repository and place it in the termin
    
 
   ### Using LLMs using API endpoints**
-   
+      
+<br> 
    
 ## 4. set up Firebase
 Create a new project and use the Realtime databse using the following link:
@@ -65,21 +70,22 @@ Create a new project and use the Realtime databse using the following link:
 
 copy the firebase url: __https://unique_url.firebaseio.com/__ and go to Repository -> settings --> Security --> Secrets and variables --> Actions 
 and paste it in Repoitory secrets with Name: FIREBASE_URL and Secret: {firebase url}. 
-
+   
+<br>
 
 ## 5. use the first terminal to install the application: 
-
-
+   
+<br>
 
 ## 6. Build and deployment Appliation using Github pages
 
    Go to 
+    
+<br>
    
-## PR Scores GitHub Extension
+## 7. PR Scores GitHub Extension
 
 This browser extension adds a **PR Scores** tab to the top of any GitHub repository (next to Pull requests).
-
-##  How to Use
 
 1. Clone this repo
 2. Go to `chrome://extensions` and enable **Developer Mode**
