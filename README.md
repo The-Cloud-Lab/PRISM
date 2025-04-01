@@ -14,7 +14,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 ## 3. Connecting LLMs
    ### Using Local LLMs
   
-   #### Ollama: Download and install Ollamad and follow the instructions using below link:
+   #### Ollama:
       https://github.com/ollama/ollama
    
    #### Download Ngrok and Uvicorn:
@@ -26,7 +26,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
    
    ngrok config add-authtoken $YOUR_AUTHTOKEN
 
-   **Uvicorn**: Install Uvicorn (FastAPI) using the below link and follow the steps:
+   **Uvicorn**: Install Uvicorn (FastAPI) using the below link and follow the steps.
       https://www.uvicorn.org/
 
    --> Make sure you have pip in your terminal. Download the "ollama_api.py" file which is in the repository and place it in the same directory as the terminal are in. 
