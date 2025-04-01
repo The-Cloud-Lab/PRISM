@@ -12,11 +12,11 @@ PRISM is an In-built tool that analyzes and score the pull request created using
  Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
 
 ## 3. Connecting LLMs
-      ### i. Using Local LLMs
+   ### Using Local LLMs
   
    #### Ollama: 
         Download and install Ollamad and follow the instructions using below link:
-          [https://github.com/ollama/ollama]
+        [https://github.com/ollama/ollama]
    
    #### Download Ngrok and Uvicorn
    
@@ -49,7 +49,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
         
    
 
-  ### ii. Using LLMs using API endpoints**
+  ### Using LLMs using API endpoints**
    
    
 ## 4. set up Firebase
