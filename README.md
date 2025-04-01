@@ -50,7 +50,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
    
    #####   Step 2:
      
-   Copy and paste the ngrok **Forwarding link** into ".github/workflows/automate_pr_msg.yml" env section. 
+   Copy and paste the ngrok **Forwarding URL** into ".github/workflows/automate_pr_msg.yml" env section. 
    
    It similar to this:
 ![Image](image.png)
