@@ -31,10 +31,13 @@ Download the "ollama_api.py" file from the repository and place the file in the 
 
    #### 3. Connecting Github workflow with local system using Ngrok and Uvicorn:
    * step 1: 
-   Create two seperate terminals and using the following commands in respective terminals:
+   Create two seperate terminals and using the following commands in respective terminals
    terminal_2:
+
     uvicorn ollama_api:app --host 0.0.0.0 --port 8000 
+    
    terminal_3:
+   
     ngrok http 8000
    
    * step 2: 
