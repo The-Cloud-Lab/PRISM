@@ -23,7 +23,7 @@ Download and install
    
 Get a new Authorization token and paste the following command in the local terminal for the configuration.
    
->ngrok config add-authtoken $YOUR_AUTHTOKEN
+      ngrok config add-authtoken $YOUR_AUTHTOKEN
 
       Uvicorn: https://www.uvicorn.org/
 
