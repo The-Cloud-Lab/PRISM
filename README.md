@@ -73,7 +73,7 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 <br>
 
 
-## 5. Build and deployment Appliation using Github pages
+## 5. Build and deployment Appliation using Github pages (terminal 1)
 
    #### Install npm:
     npm install
@@ -83,17 +83,16 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 
    #### Deploy:
     npm run deploy
-    
+
 <br>
    
-PR Scores GitHub Extension
+   #### PR Scores GitHub Extension
 
 This browser extension adds a **PR Scores** tab to the top of any GitHub repository (next to Pull requests).
 
-1. Clone this repo
-2. Go to `chrome://extensions` and enable **Developer Mode**
-3. Click **Load Unpacked**
-4. Select the `pr-scores-extension/` folder
-5. you'll see a **PR Scores** tab in your repository.
 
-It links to the https://{username}.github.io/PRISM
+1. Go to `chrome://extensions` and enable **Developer Mode**
+2. Click **Load Unpacked**
+3. download and upload`pr-scores-extension/` folder
+4. you'll see a **PR Scores** tab in your repository.
+
