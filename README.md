@@ -11,14 +11,14 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 ## 2. Enable read and write permissions to the repository.
  Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
 
-## 3.
-   **i. Use Local LLMs**
+## 3. Connecting LLMs
+   ### i. Using Local LLMs
   
-**Ollama**: \
-Download and install Ollamad and follow the instructions using below link:
-[https://github.com/ollama/ollama]
+   #### Ollama: 
+        Download and install Ollamad and follow the instructions using below link:
+          [https://github.com/ollama/ollama]
    
-**Download Ngrok and Uvicorn**
+   #### Download Ngrok and Uvicorn
    
    **Ngrok**: Download Ngrok using the below link and follow the Setup and installation instructions.
     [https://dashboard.ngrok.com/get-started/setup]
@@ -32,7 +32,7 @@ Download and install Ollamad and follow the instructions using below link:
 
    --> Make sure you have pip in your terminal. Download the "ollama_api.py" file which is in the repository and place it in the same directory as the terminal are in. 
 
-   **Connecting Github workflow with local system using Ngrok and Uvicorn**:
+   #### Connecting Github workflow with local system using Ngrok and Uvicorn**:
    step 1: 
    Create two seperate terminals and using the following commands in respective terminals:
    terminal two: uvicorn ollama_api:app --host 0.0.0.0 --port 8000 
@@ -49,7 +49,7 @@ Download and install Ollamad and follow the instructions using below link:
         
    
 
-  **ii. Using LLMs using API endpoints**
+  ### ii. Using LLMs using API endpoints**
    
    
 ## 4. set up Firebase
@@ -64,11 +64,11 @@ and paste it in Repoitory secrets with Name: FIREBASE_URL and Secret: {firebase 
 
 
 
-## 7. Build and deployment Appliation using Github pages
+## 6. Build and deployment Appliation using Github pages
 
    Go to 
    
-# PR Scores GitHub Extension
+## PR Scores GitHub Extension
 
 This browser extension adds a **PR Scores** tab to the top of any GitHub repository (next to Pull requests).
 
