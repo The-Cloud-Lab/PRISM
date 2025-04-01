@@ -87,7 +87,7 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 Now, go to Repository --> Settings --> Code and automation --> Pages \
 and select source as Deploy from a branch, branch as gh-pages, folder /(root) and save.
 
-![Image](image.png)
+![Image](image2.png)
    
    #### PR Scores GitHub Extension
 
