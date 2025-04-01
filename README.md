@@ -85,7 +85,7 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
     npm run deploy
 
 Now, go to Repository --> Settings --> Code and automation --> Pages \
-and select source as Deploy from a branch, branch as gh-pages, folder /(root) and save.
+and select source as Deploy from a branch, branch as gh-pages, folder as /(root) and save.
 
 ![Image](image2.png)
    
