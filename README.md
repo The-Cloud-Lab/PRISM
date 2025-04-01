@@ -6,7 +6,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 # Setup
 
 ## 1. clone the repository:
-      https://github.com/The-Cloud-Lab/PRISM.git
+    https://github.com/The-Cloud-Lab/PRISM.git
 
 ## 2. Enable read and write permissions to the repository.
  Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
@@ -16,12 +16,12 @@ PRISM is an In-built tool that analyzes and score the pull request created using
   
    #### Ollama
 Download and install ollama application:
-      https://github.com/ollama/ollama
+    https://github.com/ollama/ollama
    
    #### Download Ngrok and Uvicorn
    
    ##### Ngrok:
-      https://dashboard.ngrok.com/get-started/setup
+    https://dashboard.ngrok.com/get-started/setup
    
 Get a new Authorization token and paste the following command in the local terminal for the configuration.
    
