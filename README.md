@@ -53,10 +53,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
    Copy and paste the ngrok **Forwarding link** into ".github/workflows/automate_pr_msg.yml" env section. 
    
    It similar to this:
-       *env:
-              FAST_API_URL: _Fowarding_link.ngrok-free.app_/generate
-              OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-              ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}*
+![Image](/component-library/images/website.svg)
         
    
 
