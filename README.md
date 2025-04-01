@@ -6,7 +6,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 # Setup
 
 ## 1. clone the repository using the following link in your another terminal:
-        https://github.com/The-Cloud-Lab/PRISM.git
+      https://github.com/The-Cloud-Lab/PRISM.git
 
 ## 2. Enable read and write permissions to the repository.
  Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
