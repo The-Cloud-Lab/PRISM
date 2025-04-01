@@ -42,10 +42,10 @@ Download and install Ollamad and follow the instructions using below link:
    Copy and paste the ngrok Forwarding link in ".github/workflows/automate_pr_msg.yml" env section. 
    
    It similar to this:\ 
-   __env:\
-          \FAST_API_URL: __Fowarding_link.ngrok-free.app__/generate\
-          \OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}\
-          \ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}\
+   __env:<br>
+          >>FAST_API_URL: __Fowarding_link.ngrok-free.app__/generate<br>
+          >>OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}<br>
+          >>ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}<br>
         
    
 
