@@ -27,7 +27,7 @@ Download and install ollama application: https://github.com/ollama/ollama
    
 **Ngrok:** Download and install https://dashboard.ngrok.com/get-started/setup
    
-Get a new Authorization token and paste the following command in the local terminal_1 for the configuration.
+Get a new Authorization token and paste the following command in the local terminal 1 for the configuration.
 
     ngrok config add-authtoken $YOUR_AUTHTOKEN
     
