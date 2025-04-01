@@ -43,9 +43,9 @@ Download and install Ollamad and follow the instructions using below link:
    
    It similar to this:\ 
    __env:<br>
-          >>FAST_API_URL: __Fowarding_link.ngrok-free.app__/generate<br>
-          >>OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}<br>
-          >>ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}<br>
+          >FAST_API_URL: __Fowarding_link.ngrok-free.app__/generate<br>
+          >OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}<br>
+          >ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}<br>
         
    
 
