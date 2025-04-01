@@ -21,10 +21,10 @@ Download and install ollama application: https://github.com/ollama/ollama
 Download and install
       Ngrok: https://dashboard.ngrok.com/get-started/setup
    
-Get a new Authorization token and paste the following command in the local terminal for the configuration.
-   
+Get a new Authorization token and paste the following command in the local terminal for the configuration.   
       ngrok config add-authtoken $YOUR_AUTHTOKEN
-
+      
+Download and install
       Uvicorn: https://www.uvicorn.org/
 
       Download the "ollama_api.py" file from the repository and place it in the terminal directory. 
