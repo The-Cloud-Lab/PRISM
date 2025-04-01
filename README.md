@@ -30,8 +30,10 @@ Uvicorn: Download and install https://www.uvicorn.org/
 Download the "ollama_api.py" file from the repository and place the file in the terminal directory. 
 
    #### 3. Connecting Github workflow with local system using Ngrok and Uvicorn:
-   * step 1: 
+   * step 1:
+     
    Create two seperate terminals and using the following commands in respective terminals
+
    terminal_2:
 
     uvicorn ollama_api:app --host 0.0.0.0 --port 8000 
@@ -40,7 +42,8 @@ Download the "ollama_api.py" file from the repository and place the file in the 
    
     ngrok http 8000
    
-   * step 2: 
+   * step 2:
+     
    Copy and paste the ngrok Forwarding link in ".github/workflows/automate_pr_msg.yml" env section. 
    
    It similar to this:\
