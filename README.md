@@ -11,7 +11,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 2. Enable read and write permissions to the repository.
    Go to Repository -> settings -> Actions -> General -> WorkFlow permissions -> Select Read and write permissions.
 
-3.
+3.\
    **i. Use Local LLMs**
   
 **Ollama**: \
