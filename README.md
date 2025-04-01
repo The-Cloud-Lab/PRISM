@@ -72,17 +72,16 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
    
 <br>
 
-## 5. use the first terminal to install the application: 
-   
-<br>
 
-## 6. Build and deployment Appliation using Github pages
+## 5. Build and deployment Appliation using Github pages
 
-   Go to 
+   #### Install npm:
+    npm install
+
     
 <br>
    
-## 7. PR Scores GitHub Extension
+PR Scores GitHub Extension
 
 This browser extension adds a **PR Scores** tab to the top of any GitHub repository (next to Pull requests).
 
