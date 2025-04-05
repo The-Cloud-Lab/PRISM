@@ -16,7 +16,7 @@ PRISM is an In-built tool that analyzes and score the pull request created using
 <br>
 
 ## 3. Connecting LLMs
-   ### Using LLMs locally
+   ### Accessing LLMs locally
   
    #### 1. Ollama
 Download and install ollama application: https://github.com/ollama/ollama
@@ -59,7 +59,7 @@ Download the "ollama_api.py" file from the repository and place it in the termin
         
 <br>
 
-  ### Using LLMs using API endpoints
+  ### Accessing LLMs using external API's
       
 <br> 
    
