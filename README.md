@@ -65,8 +65,6 @@ Download the "ollama_api.py" file from the repository and place it in the termin
 ![Image](image.png)
         
 <br>
-
-  ### Using LLMs using API endpoints
       
 <br> 
    
@@ -90,12 +88,15 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 
    #### Deploy:
     npm run deploy
+<br>
 
-(Not Necessary:)
+Not Necessary:
     Use the following command if you are facing trouble installing the npm and follow the step 5 again:
     
     #### Installing package-lock.json again:
     rm -rf node_modules package-lock.json
+    
+<br>
 
 Now, go to Repository --> Settings --> Code and automation --> Pages \
 and select source as Deploy from a branch, branch as gh-pages, folder as /(root) and save.
