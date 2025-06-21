@@ -91,9 +91,8 @@ and paste the firebase url in Repoitory secrets with Name: FIREBASE_URL and Secr
 <br>
 
 Not Necessary:
-    Use the following command if you are facing trouble installing the npm and follow the step 5 again:
-    
-    #### Installing package-lock.json again:
+    Use the following command if you are facing trouble installing the package-lock.json and follow the step 5 again:
+
      rm -rf node_modules package-lock.json
     
 <br>
