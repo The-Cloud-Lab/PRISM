@@ -94,7 +94,7 @@ Not Necessary:
     Use the following command if you are facing trouble installing the npm and follow the step 5 again:
     
     #### Installing package-lock.json again:
-    rm -rf node_modules package-lock.json
+     rm -rf node_modules package-lock.json
     
 <br>
 
